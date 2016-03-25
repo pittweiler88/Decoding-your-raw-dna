@@ -1,0 +1,401 @@
+Genetic Heredity Calculator Genetic Heredity Calculator Home Personal Report Heredity Report Quick Traits Help Links
+ 
+This calculator uses a set of statistical models to calculate chances of getting a particular trait and estimate disease risks.
+
+Click on the Add new genome  button below to load a genome file. The data is kept locally on your computer and is not transferred to any external server. The system supports reading raw genome data from 23andMe, deCODEme, FamilyTree:DNA and Lumigenix data files.
+Click on the Click to calculate buttons to get results for the selected trait or disease
+Click on the Calculate all reports  button below to get results for all the traits and diseases
+If you loaded more than one genome, you can use the name tab in the middle of the table to switch between them
+ 	
+Genome #1
+Traits
+Alcohol Flush Reaction	
+Little or no flushing
+rs671:GG
+Alcohol flush reaction is a condition in which an individual's face or body experiences flushes or blotches as a result of an accumulation of acetaldehyde, a byproduct of the catabolic metabolism of alcohol.
+
+This reaction is usually experienced by people of East Asian descent - according to the analysis by HapMap project the allele of the ALDH2 gene responsible for this reaction is rare among Europeans and Africans, very rare among Mexican-Americans but quite common among people of Chinese and Japanese ancestry.
+More information: Wikipedia HealthWorks GB HealthWatch 
+Research papers:
+Yoshida et al.(1984). "Molecular abnormality of an inactive aldehyde dehydrogenase variant commonly found in Orientals" Proc Natl Acad Sci U S A. 81(1):258-61
+Bitter Taste Perception	
+Can taste
+rs713598:CG*
+Not all humans have the same perception of bitterness - a genetic variation in TAS2R38 gene prevents some people from tasting propylthiouracil (PROP) - a compound often found in cabbage, raw broccoli, coffee and dark beers. About 25% of people lack ability to detect this compound due to gene mutations and they find most food and drink to be less bitter, or not bitter at all.
+More information: GenePlanet 
+Research papers:
+Kim et al.(2003). "Positional cloning of the human quantitative trait locus underlying taste sensitivity to phenylthiocarbamide" Science. 299(5610):1221-5.
+Drayna et al.(2005). "Human taste genetics." Annu Rev Genomics Hum Genet 6:217-35
+Blood Type (ABO)	
+2 out of 3 markers used
+Group A
+rs8176719:??
+rs8176746:GG
+rs8176747:CC*
+
+Click to hide genotype
+The ABO system is the most important blood-group system in human blood transfusion.
+
+ABO types are classified by presense and absense of associated anti-A and anti-B antibodies. Presense of these antibodies is encoded by one genetic locus, the ABO locus, which has three alternative forms:A, B, and O. A child receives one of the three variants from each parent, giving rise to six possible genotypes and four possible blood types.
+More information: Wikipedia NCBI 
+Research papers:
+Satoh K., Itoh, Y.(2006). "Forensic ABO blood grouping by 4 SNPs analyses using an ABI PRISMR3100 genetic analyzer." International Congress Series 1288:49-51
+Sung Ho Lee et al.(2009). "Rapid ABO Genotyping Using Whole Blood without DNA Purification." Korean J Lab Med 2009;29:231-7
+Breast size
+Average cup size:C
+Click to calculate
+Breast size is moderately heritable and recent studies has identified a number of single-nucleotide polymorphisms (SNPs) significantly associated with breast size. These studies provide insight into the genetic factors underlying normal breast development and show that some of these factors are also shared with probability of having breast cancer.
+Research papers:
+Eriksson et al. (2012) "Genetic variants associated with breast size also influence breast cancer risk." BMC Med Genet
+Caffeine Consumption
+Average: 280 mg/day
+Adjusted: 273 mg/day (-2.5%)
+Click to see genotype
+Caffeine acts as a central nervous system stimulant, temporarily warding off drowsiness and restoring alertness. Beverages containing caffeine, such as coffee, tea, soft drinks, and energy drinks, enjoy great popularity; 90% of adults consume caffeine daily. Ordinary consumption has low health risks, but consumption of large amounts of caffeine can lead to both positive and negative effects.
+More information: Wikipedia 
+Research papers:
+Amin et al. (2011) "Genome-wide Association Analysis of Coffee Drinking Suggests Association with CYP1A1/CYP1A2 and NRCAM." Mol Psychiatry 10.1038/mp.2011.101
+Sulem et al. (2011) "Sequence variants at CYP1A1-CYP1A2 and AHR associate with coffee consumption." Hum Mol Genet. 20(10):2071-7
+Cornelis et al. (2011) "Genome-wide meta-analysis identifies regions on 7p21 (AHR) and 15q24 (CYP1A2) as determinants of habitual caffeine consumption."PLoS Genet. 7(4):e1002033
+Cholesterol, HDL
+Average: 55 mg/dL
+Adjusted: 49 mg/dL (-11.5%)
+29 out of 43 markers used
+rs1042034:TT-0.4
+rs11869286:CG-0.16*
+rs12328675:TT-0.18
+rs12678919:AA-0.54*
+rs12967135:GG+0.19*
+rs13107325:CC+0.12
+rs1532085:AG+0.32
+rs1689800:??
+rs16942887:GG-0.3
+rs17145738:CC-0.14
+rs174546 :??
+rs1800775:CC-3.03
+rs1800961:CC+0.11
+rs1864163:GG+1.65
+rs1883025:TC-0.47
+rs2293889:??
+rs2652834:??
+rs2814944:??
+rs2925979:CC+0.27
+rs2954029:AT+0.07*
+rs2972146:TT-0.34*
+rs3136441:TT-0.23*
+rs3764261:CC-2.15
+rs386000:GG-0.33*
+rs4129767:??
+rs4148008:CG-0.15*
+rs4149268:TC-0.23
+rs4420638:AA+0.36
+rs4660293:??
+rs4731702:CC-0.57*
+rs4759375:CT+0.76*
+rs4765127:GG-0.3*
+rs4775041:??
+rs4846914:GG-0.73*
+rs581080:??
+rs6065906:??
+rs7134594:CC-0.47
+rs7241918:TT+0.45
+rs737337:TT+0.1
+rs838880:??
+rs964184:??
+rs9987289:??
+rs9989419:??
+
+Click to hide genotype
+High-density lipoprotein (HDL, "Good Cholesterol") is one of the five major groups of lipoproteins that enable lipids like cholesterol and triglycerides to be transported within the water-based bloodstream. In healthy individuals, about thirty percent of blood cholesterol is carried by HDL.
+
+HDL particles are able to remove cholesterol from within artery atheroma and transport it back to the liver for excretion or re-utilization. People with higher levels of HDL seem to have fewer problems with cardiovascular diseases, while those with low HDL cholesterol levels have increased rates for heart disease.
+Research papers:
+Teslovich et al. (2010) "Biological, clinical and population relevance of 95 loci for blood lipids." Nature
+Ridker et al. (2009) "Polymorphism in the CETP gene region, HDL cholesterol, and risk of future myocardial infarction: Genomewide analysis among 18 245 initially healthy women from the Women's Genome Health Study." Circ Cardiovasc Genet
+Willer et al. (2008) "Newly identified loci that influence lipid concentrations and risk of coronary artery disease." Nat Genet
+Cholesterol, LDL
+Average: 115 mg/dL
+Adjusted: 92 mg/dL (-20.1%)
+26 out of 39 markers used
+rs10401969:TC-2.67
+rs11065987:AA+0.81
+rs11136341:??
+rs11206510:TT+1.16
+rs11220462:??
+rs1169288:??
+rs12027135:AA-1.17*
+rs12670798:TT-0.58*
+rs12916:TC+0.54
+rs1367117:GG-2.43
+rs1564348:TT-0.66
+rs16996148:??
+rs174546:TC-0.51
+rs1800562:??
+rs2000999:??
+rs2072183:??
+rs2081687:CT+0.29*
+rs2131925:GG-2.16*
+rs2255141:??
+rs2479409:AA-1.21
+rs2642442:TT-1.48*
+rs2954029:AT-0.15*
+rs3177928:GG-0.59
+rs3757354:TC-0.8
+rs3764261:CC+0.93
+rs4299376:TT-1.65
+rs4420638:AA-2.43
+rs514230:AT-0.05*
+rs562338:AA-8.02
+rs6029526:TT+1.49*
+rs629301:TT+2.49*
+rs635634:??
+rs6511720:TG-5.45
+rs6882076:CC+1.17
+rs7206971:??
+rs8017377:AG+0.05
+rs9488822:??
+rs964184:??
+rs9987289:??
+
+Click to hide genotype
+Low-density lipoprotein (LDL, "Bad Cholesterol") is one of the five major groups of lipoproteins that enable lipids like cholesterol and triglycerides to be transported within the water-based bloodstream.
+
+Studies have shown that higher levels of type LDL particles correlate with much faster growth of atheroma, progression of atherosclerosis and earlier and more severe cardiovascular disease events.
+
+Research papers:
+Teslovich et al. (2010) "Biological, clinical and population relevance of 95 loci for blood lipids." Nature
+Willer et al. (2008) "Newly identified loci that influence lipid concentrations and risk of coronary artery disease." Nat Genet
+Cholesterol, Total
+Average: 210 mg/dL
+Adjusted: 182 mg/dL (-13.5%)
+34 out of 46 markers used
+rs629301:TT+2.38*
+rs2131925:GG-3.54*
+rs12027135:AA-1.29*
+rs10401969:TC-4.08
+rs11065987:AA+0.81
+rs11136341:??
+rs11220462:??
+rs1169288:??
+rs1260326:CC-1.57
+rs12670798:TT+2.89*
+rs12916:TC+0.62
+rs1367117:GG-2.5
+rs1495741:AA-0.68
+rs1532085:AG+0.34
+rs1564348:TT-0.74
+rs174546:TC-0.57
+rs1800961:CC+0.28
+rs1883025:TC-1.12
+rs2000999:??
+rs2072183:??
+rs2081687:CT+0.38*
+rs2255141:??
+rs2277862:TC-0.83
+rs2290159:CC-2.22*
+rs2479409:AA-1.18
+rs2642442:TT-1.88*
+rs2814982:CC+0.41
+rs2902940:??
+rs2954029:AT-0.18*
+rs3177928:GG-0.74
+rs3757354:TC-0.82
+rs3764261:CC-1.07
+rs4299376:TT-1.81
+rs4420638:AA-2.32
+rs492602:GG+1.3
+rs514230:AT-0.05*
+rs581080:??
+rs6029526:TT-1.43*
+rs635634:??
+rs6511720:TG-5.53
+rs6882076:CC+1.39
+rs7241918:TT-3.22
+rs7941030:TC+0.23
+rs9488822:??
+rs964184:??
+rs9987289:??
+
+Click to hide genotype
+Cholesterol is an organic chemical substance classified as a waxy steroid of fat. Although cholesterol is important and necessary for human health, high levels of cholesterol in the blood have been linked to damage to arteries and cardiovascular disease.
+
+The Cholesterol levels include:
+
+LDL (low-density lipoprotein cholesterol, 'bad' cholesterol)
+HDL (high-density lipoprotein cholesterol, 'good' cholesterol)
+Triglycerides (fats carried in the blood)
+Research papers:
+Teslovich et al. (2010) "Biological, clinical and population relevance of 95 loci for blood lipids." Nature
+Triglycerides
+Average: 144 mg/dL
+Click to calculate
+In humans, triglycerides are a mechanism for storing unused calories, and their high concentration in blood correlates with the consumption of starchy and other high carbohydrate foods.
+
+High levels of triglycerides in the bloodstream have been linked to atherosclerosis and the risk of heart disease and stroke.
+Research papers:
+Teslovich et al. (2010) "Biological, clinical and population relevance of 95 loci for blood lipids." Nature
+Willer et al. (2008) "Newly identified loci that influence lipid concentrations and risk of coronary artery disease." Nat Genet
+Cleft Lip/Palate
+Population average: 0.1%
+Adjusted Risk: 0.1% (x1.04)
+5 out of 7 markers used
+rs10863790:AAx1.01*
+rs13041247:TTx1.27*
+rs2013162:ACx0.87
+rs2073485:AGx0.77*
+rs560426:??
+rs861020:??
+rs987525:ACx1.22
+
+Click to hide genotype
+Cleft lip and cleft palate are variations of a type of clefting congenital deformity caused by abnormal facial development. Approximately 1 in 700 children born have a cleft lip and/or a cleft palate.
+
+Cleft lip is formed in the top of the lip as either a small gap or it continues into the nose. Cleft palate is a condition in which the two plates of the skull that form the hard palate are not completely joined.
+More information: Wikipedia CDC KidsHealth.org 
+Research papers:
+Beaty et al. (2010) "A genome-wide association study of cleft lip with and without cleft palate identifies risk variants near MAFB and ABCA4." Nat Genet
+Earwax type	
+Click to calculate
+Some people have earwax that is wet, sticky and yellow or brown; other people's earwax is dry, crumbly and grayish.
+
+The type of earwax is determined by a variation at a single gene (ATP-binding cassette C11 gene), with the 'wet earwax' allele being dominant over the 'dry earwax' one.
+More information: Wikipedia Genepanet 
+Research papers:
+Yoshiura et al. (2006). "A SNP in the ABCC11 gene is the determinant of human earwax type." Nature Genetics 38(3):324-30.
+Eye color	
+5 out of 6 markers used
+Blue/Gray eyes
+rs12913832:AG
+rs1800407:CC
+rs12896399:TG
+rs16891982:??
+rs1393350:AG
+rs12203592:TC
+
+Click to hide genotype
+The pigmentation of the iris in humans varies from light brown to black, depending on the concentration of melanin in the iris pigment epithelium (located on the back of the iris). In conjunction with white collagen fibers it produces different shades of grey, green and hazel.
+
+Eye color is an inherited polygenic trait, influenced by more than one gene - there is evidence that as many as 16 different genes could be responsible for eye color in humans - yet studies show that it is possible to predict eye color with enough accuracy by using only 6 SNPs.
+More information: Wikipedia EyeDoctorGuide.com GB Health Watch 
+Research papers:
+Walsh et al. (2013). "The HIrisPlex system for simultaneous prediction of hair and eye colour from DNA." Forensic Sci Int Genet. 2013 Jan;7(1):98-115
+Hair color	
+16 out of 20 markers used
+95%	Brown
+5%	Black
+rs11547464:??
+rs885479:GG
+rs1805005:GG
+rs1805006:CC
+rs1805007:??
+rs1805008:CC
+rs1805009:??
+rs2228479:GG
+rs1110400:TT
+rs28777:AC
+rs16891982:??
+rs12821256:TT
+rs4959270:CC
+rs12203592:TC
+rs1042602:AC
+rs1800407:CC
+rs2402130:AG
+rs12913832:AG
+rs2378249:AA*
+rs683:CC
+
+Click to hide genotype
+Hair color is determined by the amount of two pigments - brown-black eumelanin predominates in black and brown hair and red-yellow pheomelanin in red hair. Blond hair contains low levels of both pigments.
+
+The genetics of human hair color are not firmly established yet, but there are indications that multiple genes determine whether a person will have brown, blond or red hair.
+More information: Wikipedia 
+Research papers:
+Walsh et al. (2013). "The HIrisPlex system for simultaneous prediction of hair and eye colour from DNA." Forensic Sci Int Genet. 2013 Jan;7(1):98-115
+Lactose intolerance	
+Likely tolerant
+rs4988235:AG
+Lactose intolerance is the inability to digest lactose, a sugar found in milk and in some milk-derived dairy products.
+
+Lactose intolerant individuals have insufficient levels of lactase, the enzyme that metabolizes lactose into glucose and galactose, in their digestive system. This condition is quite common in adults and is not dangerous, but has unpleasant symptomes such as abdominal bloating and cramps, flatulence, diarrhea or nausea after consuming significant amounts of dairy products.
+More information: Wikipedia Pubmed Health WebMD 
+Research papers:
+Enattah et al. (2002). "Identification of a variant associated with adult-type hypolactasia." Nat Genet. 2002 Feb;30(2):233-7.
+Bersaglieri et al. (2004). "Genetic signatures of strong recent positive selection at the lactase gene." Am J Hum Genet. 2004 Jun;74(6):1111-20.
+Male Pattern Baldness
+Average Lifetime Risk: 50% Men
+Adjusted Risk: 47.3% (x0.95)
+5 out of 8 markers used
+rs10502861:??
+rs12373124:??
+rs12565727:AGx0.84*
+rs2073963:TTx0.75
+rs2497938:??
+rs6047844:CTx0.98*
+rs6945541:CCx1.23*
+rs9287638:AAx1.24*
+
+Click to hide genotype
+Male Pattern Baldness is the most common cause of hair loss in men. In classic pattern baldness, hair is lost in a well-defined pattern, beginning above both temples. Hair also thins at the crown of the head. Often a rim of hair around the sides and rear of the head is left.
+More information: Wikipedia PubMed Health 
+Research papers:
+Li et al. (05-31-2012) "Six novel susceptibility Loci for early-onset androgenetic alopecia and their unexpected association with common diseases." PLoS Genet
+Spot baldness
+Average Lifetime Risk: 1.7%
+Adjusted Risk: 1% (x0.59)
+rs9479482:TTx1.45
+rs9275572:AAx0.34
+rs1024161:TTx1.5*
+rs3118470:TTx0.79
+
+Click to hide genotype
+Alopecia Areata is a medical condition in which hair is lost from some or all areas of the body, usually from the scalp. It causes bald spots on the scalp, especially in the first stages. In some cases, the condition can spread to the entire scalp or to the entire epidermis.
+More information: Wikipedia PubMed Health 
+Research papers:
+Petukhova et al. (2010) "Genome-wide association study in alopecia areata implicates both innate and adaptive immunity." Nature 466(7302):113-7
+Resting heart rate
+Average: 67 bpm
+Adjusted: 67 bpm (-0.1%)
+4 out of 6 markers used
+rs17287293:AA-2.58
+rs174547:TC-2.11
+rs281868:??
+rs314370:TT+2.89*
+rs452036:??
+rs9398652:CC+2.52*
+
+Click to hide genotype
+Heart rate is the number of heartbeats per unit of time, usually expressed as beats per minute (bpm). Heart rate can vary as the body's need to absorb oxygen and excrete carbon dioxide changes, such as during physical exercise or sleep. The typical resting heart rate in adults is 60 to 100 bpm. Resting Heart Rates below 60 bpm may be referred to as bradycardia, while rates above 100 bpm at rest may be called tachycardia.
+Research papers:
+Eijgelsheim et al. (2010) "Genome-wide association analysis identifies multiple loci related to resting heart rate." Hum Mol Genet
+Smoking Behavior
+Average: 14 cigarettes/day
+Adjusted: 13 cigarettes/day (-3.6%)
+2 out of 3 markers used
+rs1051730:GG-0.71
+rs1329650:GG+0.21
+rs4105144:??
+
+Click to hide genotype
+There are many social and environmental factors that affect whether people start smoking, but genetic factors play a significant part in how dependent on nicotine they'll become and how much they'll smoke.
+Research papers:
+The Tobacco and Genetics Consortium (2010) "Genome-wide meta-analyses identify multiple loci associated with smoking behavior." Nat Genet
+Thorgeirsson et al. (2010) "Sequence variants at CHRNB3-CHRNA6 and CYP2A6 affect smoking behavior." Nat Genet
+Tanning Ability	
+Adjusted: Average Tan
+4 out of 5 markers used
+rs10831496:AG+0.02
+rs11648785:CC+0.07
+rs12210050:??
+rs1393350:AG+0.15
+rs35391:TC-0.16
+
+Click to hide genotype
+Research papers:
+Nan et al. (2009) "Genome-wide association study of tanning phenotype in a population of European ancestry." J Invest Dermatol
+Resistance and Immunity
+Inheritable diseases
+Cancer Risks
+Cardiovascular diseases
+Other diseases risks
+Copyright (c) 2012-2014 Greg Frieger  [Disclaimer] Tell Your Friends: 
+ 
